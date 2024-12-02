@@ -3,10 +3,10 @@
 ### Tech stack I use
 
 <a href="https://github.com/isoldpower/isoldpower">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isoldpower&theme=gruvbox_light&show_icons=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=isoldpower&theme=gruvbox_light&show_icons=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=isoldpower&theme=gruvbox_light&langs_count=5" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=isoldpower&theme=gruvbox_light&langs_count=5" />
 </a>
 
 _NOTE_: there are some issues in displaying statistics due to change of a username
