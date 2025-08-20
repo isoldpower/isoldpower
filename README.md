@@ -45,6 +45,7 @@ C++ based console game created to master C++ patterns and learn modular CMake pr
 ### Power Finance, 2025 (Pet-project)
 Complex web application organised using micro-frontend architecture. Made in purpose of learning tools such as Vitest,
 Clerk SDK integrity, `tanstack-query`, `tanstack-router`, `zustand`, and `Visx`.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isoldpower&repo=power-finance&theme=gruvbox_light&show_owner=true)](https://github.com/isoldpower/power-finance)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
