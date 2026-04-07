@@ -40,6 +40,8 @@ client/server to communicate. Below is also the referenced learnig project that 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cuda](https://img.shields.io/badge/Cuda-FFFFFF?style=for-the-badge&logo=nvidia&logoColor=#76B900)
 
+---
+
 ### C++ Warships, 2025 (Pet-project)
 C++ based console game created to master C++ patterns and learn modular CMake project structure setup.
 
