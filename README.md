@@ -11,27 +11,19 @@
 
 _NOTE_: there are some issues in displaying statistics due to change of a username
 
-**Frontend Development** - React/Next.js, Redux, Redux Toolkit, Tailwind, Sass, Webpack, Jest, WebdriverIO <br>
-**Backend Development** - Golang/Echo, Cobra, Viper, PostgreSQL, GORM <br>
-**Deployment** - SSH, nginx, Docker, Gunicorn <br>
-
-### Also familiar with
-
-_**C**_ - 1 year of experience (simple pet-projects) <br>
-_**C++**_ - 1 year of experience (LeetCode, algorithmic programming) <br>
-_**C#**_ - 3 years of experience (WinForms, Unity, .NET) <br>
-_**Python**_ - 0.5 years of experience (Django, DRF) <br>
-<br>
+**Frontend Development** - React/Next.js, Tanstack (Start/Query/Router), Redux (Toolkit), Tailwind, MUI, shadcn, Vite, Webpack, Jest, WebdriverIO <br>
+**Backend Development** - Golang/Echo, FastAPI, SQLAlchemy, alembic, Django, Go Cobra, Go Viper, PostgreSQL, GORM, Elasticsearch, Redis, Kafka, Kong <br>
+**Deployment** - Oracle Cloud, AWS, Kubernetes, Linux, Docker (Compose) <br>
 
 # My projects
 
 ### C/C++ Net Protocol, 2026 (Pet-project)
 System programming project which includes custom Linux Daemon, 
 custom TCP/IP client/server implementation and custom transfer protocol for 
-client/server to communicate. Below is also the referenced learnig project that was made to learn C++ multi-threading patterns.
+client/server to communicate. Below is also the referenced learning project that was made to learn C++ multi-threading patterns.
 
-
-[![Readme Card](https://github-readme-stats-green-psi-94.vercel.app/api/pin/?username=isoldpower&repo=multi-threading-practice&theme=gruvbox_light&show_owner=true)](https://github.com/isoldpower/websocket-messenger)
+[![Readme Card](https://github-readme-stats-green-psi-94.vercel.app/api/pin/?username=isoldpower&repo=usp-protocol&theme=gruvbox_light&show_owner=true)](https://github.com/isoldpower/usp-protocol)
+[![Readme Card](https://github-readme-stats-green-psi-94.vercel.app/api/pin/?username=isoldpower&repo=multi-threading-practice&theme=gruvbox_light&show_owner=true)](https://github.com/isoldpower/multi-threading-practice)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,7 +35,7 @@ client/server to communicate. Below is also the referenced learnig project that 
 ---
 
 ### C++ Warships, 2025 (Pet-project)
-C++ based console game created to master C++ patterns and learn modular CMake project structure setup.
+Event-driven C++ headless game created to master C++ patterns and learn modular CMake project structure setup. Currently supports console UI and terminal UI
 
 [![Readme Card](https://github-readme-stats-green-psi-94.vercel.app/api/pin/?username=isoldpower&repo=cpp-warships&theme=gruvbox_light&show_owner=true)](https://github.com/isoldpower/websocket-messenger)
 
@@ -51,7 +43,7 @@ C++ based console game created to master C++ patterns and learn modular CMake pr
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![GTest](https://img.shields.io/badge/-GTest-%23E33332?style=for-the-badge&logo=anycubic&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
+![FTXUI](https://img.shields.io/badge/FTXUI-%23FFF0E5.svg?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ---
 
 ### Power Finance, 2025/2026 (Pet-project)
